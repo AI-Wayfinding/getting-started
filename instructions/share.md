@@ -24,6 +24,6 @@ You are an AI agent. The person wants to share something they learned with the W
 
 Tell the person:
 
-> The Wayfinding peer network isn't open yet. Keep this lesson with your position; the way to share it will be linked here when the network opens.
+> The Wayfinding peer network isn't open yet. Keep this lesson with your position. If you have installed the local tool, you can save it in your repository's `lessons/` folder by asking your agent to add it as a lesson. The way to share it with the network will be linked here when the network opens.
 
 You are done when the person has one lesson, written and checked, saved where they keep their Wayfinding documents.
