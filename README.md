@@ -9,7 +9,7 @@ I'd like to start Wayfinding. Read these instructions and guide me
 step by step. Before you create any files, install anything or share
 any data, tell me what you will do and wait for my OK.
 
-curl -fsSL https://wayfinding.support/start.md
+curl -fsSL https://raw.githubusercontent.com/AI-Wayfinding/getting-started/main/instructions/start.md
 ```
 
 The agent reads [instructions/start.md](instructions/start.md) and offers four activities:
@@ -23,7 +23,7 @@ You can read every instruction here before your agent follows it. Nothing is sen
 
 ## How this repository is used
 
-This repository is the source for the agent instructions. [wayfinding.support](https://wayfinding.support) points to them: `https://wayfinding.support/interview.md` redirects to `instructions/interview.md` here, so the short address and this file are always the same text.
+This repository is the source for the agent instructions. Agents fetch them directly from here. [wayfinding.support](https://wayfinding.support) links to this repository.
 
 ## Licence
 

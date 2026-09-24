@@ -20,7 +20,7 @@ Work through these with the person:
    - Use only their words and examples; offer none of your own.
    - Keep frameworks and product names out of the questions. You want their framing.
    - Give no advice during the interview.
-5. **Share the questions.** Give the person the question list from activity 1, section 3, phrased for their colleague. Fetch it with `curl -fsSL https://wayfinding.support/interview.md` if you don't already have it.
+5. **Share the questions.** Give the person the question list from activity 1, section 3, phrased for their colleague. Fetch it with `curl -fsSL https://raw.githubusercontent.com/AI-Wayfinding/getting-started/main/instructions/interview.md` if you don't already have it.
 6. **Offer a rehearsal.** Offer a five-minute practice where you play the colleague, then give one piece of feedback on their listening.
 
 Preparation is done when the colleague has agreed, the capture method is settled, and the person has the questions.

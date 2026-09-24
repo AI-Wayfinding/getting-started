@@ -16,10 +16,10 @@ Wayfinding starts with the person, not with a tool. There are four activities. M
 
 | # | Activity | Fetch | Status |
 |---|---|---|---|
-| 1 | **Your interview.** A private conversation about your relationship with AI. It ends with your first position: a short sensemaking document that shows where you stand today. | `curl -fsSL https://wayfinding.support/interview.md` | ready |
-| 2 | **Interview a teammate.** You interview a colleague, with your agent as your coach, then compare what you heard with your own position. | `curl -fsSL https://wayfinding.support/interview-a-teammate.md` | ready |
-| 3 | **Set up the tools.** A private repository for your team's positions, interviews and shared resources. | `curl -fsSL https://wayfinding.support/install.md` | not released yet |
-| 4 | **Share back.** Turn one thing you learned into a lesson for the Wayfinding peer network. | `curl -fsSL https://wayfinding.support/share.md` | network not open yet |
+| 1 | **Your interview.** A private conversation about your relationship with AI. It ends with your first position: a short sensemaking document that shows where you stand today. | `curl -fsSL https://raw.githubusercontent.com/AI-Wayfinding/getting-started/main/instructions/interview.md` | ready |
+| 2 | **Interview a teammate.** You interview a colleague, with your agent as your coach, then compare what you heard with your own position. | `curl -fsSL https://raw.githubusercontent.com/AI-Wayfinding/getting-started/main/instructions/interview-a-teammate.md` | ready |
+| 3 | **Set up the tools.** A private repository for your team's positions, interviews and shared resources. | `curl -fsSL https://raw.githubusercontent.com/AI-Wayfinding/getting-started/main/instructions/install.md` | not released yet |
+| 4 | **Share back.** Turn one thing you learned into a lesson for the Wayfinding peer network. | `curl -fsSL https://raw.githubusercontent.com/AI-Wayfinding/getting-started/main/instructions/share.md` | network not open yet |
 
 ## What to do now
 

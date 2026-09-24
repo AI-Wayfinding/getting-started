@@ -109,6 +109,6 @@ This section is the agent's reading, not my words.
 1. Show the draft. Ask them to correct anything wrong, missing or overstated, starting with the Questions to correct.
 2. Make their corrections. Their version wins over your reading.
 3. Save it where they chose, after showing the path and getting their OK, or leave it in the conversation for them to copy.
-4. Tell them what comes next: interviewing a teammate is the natural second step, and their own position is what they'll compare against. The fetch command is `curl -fsSL https://wayfinding.support/interview-a-teammate.md`.
+4. Tell them what comes next: interviewing a teammate is the natural second step, and their own position is what they'll compare against. The fetch command is `curl -fsSL https://raw.githubusercontent.com/AI-Wayfinding/getting-started/main/instructions/interview-a-teammate.md`.
 
 You are done when the person has a corrected first position they have saved or copied, and knows the next activity.
